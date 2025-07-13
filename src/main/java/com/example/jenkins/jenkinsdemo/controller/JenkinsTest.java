@@ -10,6 +10,6 @@ public class JenkinsTest {
 
     @GetMapping
     public String getJenkingsData() {
-        return "Welcome to the Jenkins demo Page";
+        return "Welcome to the Jenkins demo Page1";
     }
 }
